@@ -1,0 +1,25 @@
+# 运行产物与个人数据（绝不提交）
+refs.json
+results.csv
+videos_report.csv
+family_collection.csv
+duplicates.csv
+*.html
+*.log
+refs_faces/
+hit_frames/
+kf_tmp/
+kf_diag/
+家人合集/
+output/
+results/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
