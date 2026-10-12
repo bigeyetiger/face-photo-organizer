@@ -23,3 +23,8 @@ __pycache__/
 # 系统
 .DS_Store
 Thumbs.db
+
+# 特征索引数据库（生物特征数据，绝不提交）
+*.sqlite
+*.db
+embeddings*
